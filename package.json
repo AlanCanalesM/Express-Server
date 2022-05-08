@@ -1,0 +1,14 @@
+{
+  "name": "expressbasic",
+  "version": "1.0.0",
+  "description": "An express server basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alan Canales",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
