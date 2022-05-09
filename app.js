@@ -17,3 +17,10 @@ app.listen(port, () =>{
 
     console.log('Example app listening on port ${port}')
 })
+
+//answer text
+//localhost:3000/launchx
+app.get('/launchx', (req, res)=>{
+
+    res.send('Bienvenidos a launchx')
+})
